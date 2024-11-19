@@ -12,12 +12,13 @@
 - **DevOps:** AWS, Linux, Git  
 
 ## 🌟 Proyectos Destacados  
-- [**Marketplace para Artesanos**](https://github.com/byte-bandis/) -- (https://icraftyou.es/)
+- [**Marketplace para Artesanos**](https://github.com/byte-bandis/)
   *Clon de Wallapop enfocado en productos hechos a mano. Funcionalidades: creación de anuncios, chat en tiempo real, transacciones seguras y más.*
 - [**Portfolio personal**](https://github.com/Balexo/porfolio)
   *Portfolio con mis proyectos.*
 
 ## 📫 ¡Conectemos!  
-- 🌐 [Portafolio](https://oscarvallejo.es)  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
+- 🌐 [Portafolio](https://oscarvallejo.es)
+- 🧤 [I Craft You](https://icraftyou.es/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oscarvallejoparedes/)  
 - 📧 **Email:** oscar.vallejo@outlook.com  
